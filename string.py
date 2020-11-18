@@ -23,3 +23,10 @@ text = "Welcome to my website"
 substring = text.find("website")
 print("website is position: ")
 print(substring)
+
+print("Extraccion de string")
+
+stract_substring = text[1:8]
+
+print("the text stract is: ")
+print(stract_substring)
