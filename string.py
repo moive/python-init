@@ -30,3 +30,9 @@ stract_substring = text[1:8]
 
 print("the text stract is: ")
 print(stract_substring)
+
+print("Comparation")
+mensaje_uno = "Hola"
+mensaje_dos = "Hola"
+
+print(mensaje_uno == mensaje_dos)
